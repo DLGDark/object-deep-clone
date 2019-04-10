@@ -1,0 +1,27 @@
+{
+  "name": "object-deep-clone",
+  "version": "1.0.0",
+  "description": "Deep copy the data of the object type and return the new object result",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DLGDark/object-deep-clone.git"
+  },
+  "keywords": [
+    "deepClone",
+    "object",
+    "Array"
+  ],
+  "author": "dlg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DLGDark/object-deep-clone/issues"
+  },
+  "homepage": "https://github.com/DLGDark/object-deep-clone#readme"
+}
